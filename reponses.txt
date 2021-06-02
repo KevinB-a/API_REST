@@ -1,0 +1,35 @@
+Qu'est ce que HTTP?
+
+HTTP (Hypertext Transfer Protocol) est un protocole de transmission permettant à l'utilisateur d'accéder à des pages web par l'intermédiaire d'un navigateur.
+
+Qu'est ce qu'une API?
+
+API (Application Programming Interface) est un ensemble normalisé de classes, de méthodes, de fonctions et de constantes qui sert de façade 
+par laquelle un logiciel offre des services à d'autres logiciels. Elle est offerte par une bibliothèque logicielle ou un service web, le plus 
+souvent accompagnée d'une description qui spécifie comment des programmes consommateurs peuvent se servir des fonctionnalités du programme fournisseur. 
+
+Quelle est la spécificité des API REST?
+
+Les avantages clés des API REST sont les suivants : la séparation du client et du serveur, qui aide à scaler plus facilement les applications ,
+la possibilité de mise en cache, qui permet aux clients de sauvegarder les données, et donc de ne pas devoir constamment faire des requêtes aux serveurs.
+
+Qu'est ce qu'un URI, un endpoint, une opération?
+
+Un URI doit permettre d'identifier une ressource de manière permanente, même si la ressource est déplacée ou supprimée.
+Un Endpoint est ce qu'on appelle une extrémité d'un canal de communication. Autrement dit, lorsqu'une API interagit avec un autre système, 
+les points de contact de cette communication sont considérés comme des Endpoints. Ainsi, pour les API, un Endpoint peut inclure une URL 
+d'un serveur ou d'un service.
+
+Que trouve-t-on dans la documentation d'une API rest?
+
+La documentation d’une API devrait comporter au minimum les éléments suivants :
+
+    la manière de s'authentifier s’il s’agit d'une API privée ;
+
+    la définition des endpoints ;
+
+    les paramètres éventuels ;
+
+    quelques extraits de code ;
+
+    des exemples de requêtes et de réponses.
